@@ -1,6 +1,6 @@
 {
   "name": "online-test-application",
-  "version": "4.6.1",
+  "version": "19.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
